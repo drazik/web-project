@@ -2,8 +2,8 @@
 Informations complètes du projet de programmation web
 
 Questions :
-* email à Cyrille + Alexandre + Julien, ou #projetweb sur Slack
-* [ouvrir une issue](https://github.com/julienpa/web-project/issues/new)
+* email à Cyrille / Alexandre / Aymeric, ou #web-project sur Slack
+* [ouvrir une issue](https://github.com/drazik/web-project/issues/new)
 
 ## Objectif
 Évaluer les capacités à développer une application web avec toutes les technologies front
@@ -67,11 +67,11 @@ fréquence et cohérence des commits
 - Clarté et qualité de la présentation du projet (générale, fonctionnelle et technique)
 
 ## Livrables
-- Projet à envoyer par email au plus tard le **1er mai 2018 à 23h59**.
+- Projet à envoyer par email au plus tard le **10 avril 2019 à 23h59**.
 - Le projet doit être hébergé sur un repository **privé** en ligne, comme [GitLab](https://about.gitlab.com/) ou [Bitbucket](https://bitbucket.org/) (gratuits tous les 2). Il est également possible d'utiliser GitHub gratuitement avec le [student developer pack](https://education.github.com/pack)
 - Invitez les 3 enseignants comme _reporters_ ou _contributeurs_ de votre projet
 - Pensez à inclure au minimum un `README.md` pour expliquer comment est organisé le projet et les étapes basiques permettant de le faire fonctionner
-- Soutenance (**3 mai 2018** à partir de 9h) :
+- Soutenance (**11 avril 2019** à partir de 14h) :
   - Présentation du projet, des choix techniques et de son déroulement (5 minutes)
   - Démo du résultat (15 minutes)
   - Questions/réponses (5-10 minutes)
