@@ -81,5 +81,4 @@ fréquence et cohérence des commits
 - Faire une démo avec les clients et le serveur sur 2 machines différentes
 - Tests unitaires
 - Déploiement en ligne : [Now](https://zeit.co/now), [Heroku](https://devcenter.heroku.com), DigitalOcean
-- Mise en place de la stack Webpack/Babel/ESLint (même partiellement)
 - Utilisation d'un framework ou d'une librairie front-end
