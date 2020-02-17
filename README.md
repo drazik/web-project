@@ -36,7 +36,7 @@ L'utilisateur doit pouvoir créer un nouveau compte sur l'application. Pour cela
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=61%3A1&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=94%3A499&scaling=scale-down)
 
 #### Connexion
 
@@ -47,7 +47,7 @@ Sur cette page, l'utilisateur peut saisir son adresse e-mail et son mot de passe
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=53%3A1&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=94%3A240&scaling=scale-down)
 
 #### Page d'accueil
 
@@ -117,7 +117,7 @@ Lorsque l'utilisateur est sur le formulaire de connexion mais a oublié son mot 
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=54%3A101&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=94%3A342&scaling=scale-down)
 
 #### Etapes d'une tâche
 
