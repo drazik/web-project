@@ -97,7 +97,7 @@ Lorsqu'une information a été modifiée avec succès, un message indiquera que 
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=77%3A582&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=169%3A1033&scaling=scale-down)
 
 #### Menu
 
