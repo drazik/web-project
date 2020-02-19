@@ -56,7 +56,7 @@ Une fois authentifié, l'utilisateur arrive automatiquement sur la page d'accuei
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=61%3A192&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile]https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=94%3A691&scaling=scale-down)
 
 #### Page d'édition d'une liste
 
