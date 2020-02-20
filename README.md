@@ -82,7 +82,7 @@ Pour supprimer la liste, l'utilisateur doit cliquer sur le bouton "Supprimer" si
 Maquettes :
 
 * [Desktop](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=76%3A1&scaling=min-zoom)
-* Mobile : à venir
+* [Mobile](https://www.figma.com/proto/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=266%3A1&scaling=scale-down)
 
 #### Page paramètres
 
