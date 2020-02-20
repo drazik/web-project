@@ -123,6 +123,10 @@ Maquettes :
 
 L'utilisateur peut définir une liste d'étapes pour chaque tâche. Une étape est en quelques sortes une sous-tâche. L'utilisateur peut ajouter le nombre d'étapes qu'il veut pour chaque tâche, les cocher, les supprimer (sans confirmation).
 
+## Ressources
+
+L'ensemble des icônes utilisées dans les maquettes sont disponibles dans l'archive [assets.zip](https://github.com/drazik/web-project/blob/master/assets.zip).
+
 ## Technologies, architecture à utiliser
 
 L'application sera pour le moment disponible uniquement en version web, mais des applications mobiles pourraient être developpées par la suite. Dans ce cadre, la partie serveur doit être développée sous forme d'une API, que la partie client utilisera.
