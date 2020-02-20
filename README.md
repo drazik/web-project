@@ -132,3 +132,12 @@ L'ensemble des icônes utilisées dans les maquettes sont disponibles dans l'arc
 L'application sera pour le moment disponible uniquement en version web, mais des applications mobiles pourraient être developpées par la suite. Dans ce cadre, la partie serveur doit être développée sous forme d'une API, que la partie client utilisera.
 
 Vous êtes libres d'utiliser les outils et frameworks que vous voulez (ou de ne pas en utiliser). Vos choix pourront être challengés lors de la soutenance.
+
+## Conseils
+
+La partie client et la partie serveur peuvent être développées en parallèle :
+
+* commencez à découper les différentes pages en composants d'interface de manière à en réutiliser le plus possible
+* entamez l'API en la testant avec curl ou un outil comme [Postwoman](https://postwoman.io/) (en ligne) ou [Postman](https://www.postman.com/) (client lourd)
+
+Utilisez git pour collaborer plus facilement. Partager le code avec des clefs USB va vite devenir galère et vous forcer à être ensemble physiquement pour avancer, sans compter les erreurs que vous allez faire lorsque vous allez vouloir fusionner des fichiers. Vous pouvez regarder des tutos sur [Open Classrooms](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github). Savoir un peu utiliser git vous sera toujours utile plus tard.
