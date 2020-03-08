@@ -125,7 +125,40 @@ L'utilisateur peut définir une liste d'étapes pour chaque tâche. Une étape e
 
 ## Ressources
 
+### Icônes
+
 L'ensemble des icônes utilisées dans les maquettes sont disponibles dans l'archive [assets.zip](https://github.com/drazik/web-project/blob/master/assets.zip).
+
+### Couleurs
+
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #FDFDFD;"></div>
+  <div>#FDFDFD - couleur de fond</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #F5F5F5;"></div>
+  <div>#F5F5F5 - couleur de fond (menu)</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #222222;"></div>
+  <div>#222222 - couleur du texte</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #FF7675;"></div>
+  <div>#FF7675 - couleur principale</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #E06867;"></div>
+  <div>#E06867 - couleur principale (hover)</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #D63031;"></div>
+  <div>#D63031 - couleur d'erreur</div>
+</div>
+<div style="display: flex; align-items: center">
+  <div style="width: 32px; height: 32px; border-radius: 50%; background-color: #27AE60;"></div>
+  <div>#27AE60 - couleur de succès</div>
+</div>
 
 ## Technologies, architecture à utiliser
 
