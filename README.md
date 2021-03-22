@@ -4,15 +4,15 @@
 
 ### Contacts
 
-Vous pouvez poser toutes vos questions sur le projet via message privé sur Slack ou sur le channel #projet-web.
+Vous pouvez poser toutes vos questions sur le projet via Discord ou par e-mail.
 
 ### Date et modalités de rendu
 
 Le rendu peut se faire en m'invitant en tant que collaborateur sur votre repository git si vous en avez un (conseillé, mais pas obligatoire), ou en m'envoyant votre code source (sans les dossiers `node_modules`) par mail.
 
-La date de rendu est la même que celle de la soutenance. Celle-ci se tiendra le .../04/2019 (encore à déterminer).
+La date de rendu est la même que celle de la soutenance. Celle-ci se tiendra la semaine du 12/04/2021. Le jour précis reste à préciser.
 
-Lors de la soutenance (environ 20 minutes), vous présenterez le résultat de votre travail, expliquerez la manière dont vous avez travaillé, quelles ont été les difficultés que vous avez rencontrées, comment vous les avez résolues ou contournées. L'objet principal de la soutenance n'est pas le code que vous aurez produit, même si vous pouvez en montrer si vous estimez que c'est nécessaire pour illustrer votre propos.
+Lors de la soutenance (environ 20 minutes), vous présenterez le résultat de votre travail, expliquerez la manière dont vous avez travaillé, quelles ont été les difficultés que vous avez rencontrées, comment vous les avez résolues ou contournées. L'objet principal de la soutenance n'est pas votre code mais le résultat final du produit et votre expérience lors de ce projet.
 
 ### Objectif
 
