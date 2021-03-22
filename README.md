@@ -125,6 +125,10 @@ L'utilisateur peut définir une liste d'étapes pour chaque tâche. Une étape e
 
 ## Ressources
 
+### Maquettes
+
+Les maquettes sont disponibles sur Figma : https://www.figma.com/file/LoLePFa8ZKBR4SZ8pLQz9B/Projet-iut?node-id=53%3A0.
+
 ### Icônes
 
 L'ensemble des icônes utilisées dans les maquettes sont disponibles dans l'archive [assets.zip](https://github.com/drazik/web-project/blob/master/assets.zip).
